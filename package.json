@@ -1,0 +1,14 @@
+{
+  "name": "ci-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mocha": "^6.1.4",
+    "supertest": "^4.0.2"
+  }
+}
